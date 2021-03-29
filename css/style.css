@@ -149,6 +149,10 @@ footer{
     width: 20%;
     padding: 4%;
 }
+.icon-text-icon i:hover{
+    color: red;
+
+}
 .icon-text-text{
     float: left;
     width: 60%;
