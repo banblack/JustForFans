@@ -88,6 +88,9 @@ nav ul li a {
 .current {
     color: #3f5767;
 }
+.current-1{
+    color: red;
+}
 .uno-3{
     width: 31.5%;
     float: left;
@@ -278,4 +281,20 @@ nav li{
 .footer-nav li{
     padding: 1%;
 }
+.video-container {
+    width: 100%;
+    }
 }
+
+.eventos li{
+    display: inline-block;
+    padding: 10px;
+}
+/*JWPLAYER*/
+.video-container{
+    padding: 10%;
+}
+
+   
+    
+  
